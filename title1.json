@@ -1,0 +1,842 @@
+[
+  {
+    "code": "normalization-exponent-for-bond-stress-uncracked-concrete-diamond-drilled-holes",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Normalization exponent for bond stress, uncracked concrete, diamond drilled holes"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "normalization-exponent-for-bond-stress-cracked-concrete-diamond-drilled-holes",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Normalization exponent for bond stress, cracked concrete, diamond drilled holes"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "normalization-exponent-for-bond-stress-uncracked-concrete-diamond-drilled-+-roughening-tool",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Normalization exponent for bond stress, uncracked concrete, diamond drilled + roughening tool"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "normalization-exponent-for-bond-stress-cracked-concrete-diamond-drilled-+-roughening-tool",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Normalization exponent for bond stress, cracked concrete, diamond drilled + roughening tool"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-hammer-drilled-dry-concrete",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, hammer drilled, dry concrete"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-hammer-drilled-holes-dry-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, hammer drilled holes, dry concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-hammer-drilled-holes-dry-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, hammer drilled holes, dry concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-hammer-drilled-water-saturated-concrete",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, hammer drilled, water saturated concrete"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-hammer-drilled-holes-water-saturated-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, hammer drilled holes, water saturated concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-hammer-drilled-holes-water-saturated-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, hammer drilled holes, water saturated concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-hammer-drilled-water-filled-holes",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, hammer drilled, water filled holes"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-hammer-drilled-holes-water-filled-holes-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, hammer drilled holes, water filled holes, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-hammer-drilled-holes-water-filled-holes-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, hammer drilled holes, water filled holes, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-hammer-drilled-under-water",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, hammer drilled, under water"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-hammer-drilled-holes-under-water-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, hammer drilled holes, under water, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-hammer-drilled-holes-under-water-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, hammer drilled holes, under water, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-dry-concrete",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled, dry concrete"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-holes-in-dry-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored holes in dry concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-holes-in-dry-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored holes in dry concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-water-saturated-concrete",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled, water saturated concrete"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-holes-in-water-saturated-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored holes in water saturated concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-holes-in-water-saturated-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored holes in water saturated concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-water-filled-holes",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled, water filled holes"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-holes-water-filled-holes-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored holes, water filled holes, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-holes-water-filled-holes-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored holes, water filled holes, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-under-water",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled, under water"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-holes-under-water-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored holes, under water, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-holes-under-water-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored holes, under water, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-+-roughening-tool-dry-concrete",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled + roughening tool, dry concrete"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-+-roughened-holes-dry-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored + roughened holes, dry concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-+-roughened-holes-dry-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored + roughened holes, dry concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-+-roughening-tool-water-saturated-concrete",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled + roughening tool, water saturated concrete"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-+-roughened-holes-in-water-saturated-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored + roughened holes in water saturated concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-+-roughened-holes-in-water-saturated-concrete-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored + roughened holes in water saturated concrete, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-+-roughening-tool-water-filled-holes",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled + roughening tool, water filled holes"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-+-roughened-holes-water-filled-holes-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored + roughened holes, water filled holes, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-+-roughened-holes-water-filled-holes-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored + roughened holes, water filled holes, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-category-diamond-drilled-+-roughening-tool-under-water",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor category, diamond drilled + roughening tool, under water"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "strength-reduction-factor-bond-tension-diamond-cored-+-roughened-holes-under-water-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Strength reduction factor, bond tension, diamond cored + roughened holes, under water, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "resistance-modification-factor-bond-tension-diamond-cored-+-roughened-holes-under-water-cond-b",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Resistance modification factor, bond tension, diamond cored + roughened holes, under water, cond. B"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "reduction-for-seismic-tension",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Reduction for seismic tension"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-can-be-used-with-icc",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product can be used with ICC"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-can-be-used-with-the-hna-methods-aci-318-11-and-aci-318-14",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product can be used with the HNA methods ACI 318-11 and ACI 318-14"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-can-be-used-with-csa",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product can be used with CSA"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-can-be-used-with-the-hna-method-aci-349-01",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product can be used with the HNA method ACI 349-01"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-is-not-allowed-for-seismic-in-aci-methods-(mechanical-anchors)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product is NOT allowed for seismic in ACI methods (mechanical anchors)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-is-not-allowed-for-seismic-in-csa-methods-(mechanical-anchors)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product is NOT allowed for seismic in CSA methods (mechanical anchors)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "product-is-allowed-for-use-in-concrete-over-metal-deck-applications",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Product is allowed for use in Concrete Over Metal Deck applications"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "a-“shear-warning”-should-be-shown-in-the-report-for-the-fastener-(kh-ez-i)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "A “shear warning” should be shown in the report for the fastener (KH-EZ I)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-allowed-with-stand-off-fastening-without-clamping",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is allowed with stand-off fastening without clamping"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-allowed-with-stand-off-fastening-with-clamping",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is allowed with stand-off fastening with clamping"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-allowed-with-stand-off-fastening-with-grouting",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is allowed with stand-off fastening with grouting"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-needs-no-installation-torque-moment-(t_inst-=-0)-or-cannot-be-tightened",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family needs no installation torque moment (T_inst = 0) or cannot be tightened"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-approved-for-use-in-cracked-concrete-(tensile-zone)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is approved for use in cracked concrete (tensile zone)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-should-be-shown-if-uncracked-concrete-is-selected-in-the-ui-(filter-criteria-for-“special”-hrd-anchors)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family should be shown if uncracked concrete is selected in the UI (filter criteria for “special” HRD anchors)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-approved-for-use-under-dynamic-loading-(design-methods-dibt-dyn-and-hilti-dyn)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is approved for use under dynamic loading (design methods DIBt-Dyn and Hilti-Dyn)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-approved-for-use-in-shock-conditions",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is approved for use in shock conditions"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-approved-for-use-under-seismic-loading-(design-methods-hilti-asd-and-aci-318---ac193/ac308/cip)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is approved for use under seismic loading (design methods Hilti-ASD and ACI 318 - AC193/AC308/CIP)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-is-approved-for-use-with-the-dynamic-set",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-family is approved for use with the Dynamic Set"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  },
+  {
+    "code": "anchor-family-can-be-installed-using-the-at-tool-(special-setting-tool-in-usa-+-canada)",
+    "type": "multiple",
+    "value": {
+      "symbol": "-",
+      "units": "-",
+      "title": "Anchor-Family can be installed using the AT tool (special setting tool in USA + Canada)"
+    },
+    "originUnit": "",
+    "valuePreferences": {
+      "allowed": [],
+      "type": "number"
+    }
+  }
+]

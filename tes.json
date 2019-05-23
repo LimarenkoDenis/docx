@@ -1,0 +1,126 @@
+[
+  {
+    "tex": "n_{uncr,HD}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "n_{cr,HD}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "n_{uncr,DD}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "n_{cr,DD}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "n_{uncr,DD+RT}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "n_{cr,DD+RT}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{HD,d,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{HD,d,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{HD,ws,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{HD,ws,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{HD,wf,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{HD,wf,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{HD,uw,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{HD,uw,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD,d,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD,d,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD,ws,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD,ws,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD,wf,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD,wf,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD,uw,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD,uw,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD+RT,d,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD+RT,d,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD+RT,ws,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD+RT,ws,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD+RT,wf,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD+RT,wf,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "f_{DD+RT,uw,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "R_{DD+RT,uw,N,B}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  },
+  {
+    "tex": "a_{N,seis}",
+    "xslt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<m:oMath xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><m:sSub><m:e><m:r><m:t>ϕ</m:t></m:r></m:e><m:sub><m:r><m:t>HD,d,N,B</m:t></m:r></m:sub></m:sSub></m:oMath>\n"
+  }
+]
